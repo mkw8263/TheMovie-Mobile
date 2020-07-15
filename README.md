@@ -1,7 +1,7 @@
 ## Themovie
 - This is bloc pattern Sample Project
 - I used Api [TheMovie](https://developers.themoviedb.org/3/getting-started/introduction)
-
+- [medium](https://medium.com/@ruddns8213/themovie-flutter-bloc-pattern-da0c1a806fbe)
 ## Screen(Android, iOS)
 <table>
   <tr>
